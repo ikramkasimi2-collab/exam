@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testttt 
 salut
+=======
+testttt
+bonjour
+>>>>>>> 70f099fad992a6f29efa3f26f320b5c5b3a11d60
